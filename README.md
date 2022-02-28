@@ -1,4 +1,4 @@
-#Publishing COVID-19 Vaccination dataset to PowerBI via REST API
+# Publishing COVID-19 Vaccination dataset to PowerBI via REST API
 
 PowerBI allows for the creation of visualization dashboards that provide an extremely effective way to gain deeper business insights into certain trends. Being able to pull data from various data sources and automatically refresh dashboards regularly is extremely important for business reporting. In spite of the wealth of data available, not all data sources are easily accessible or in the appropriate format. 
 
@@ -17,5 +17,3 @@ Once published, the dataset can be used to create visualizations. Subsequent dat
 ![Screenshot](Dashboard.png)
 
 The PowerBI dashboard has been included in the sample.
-
-"""
