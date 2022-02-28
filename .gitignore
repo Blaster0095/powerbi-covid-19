@@ -157,6 +157,5 @@ cython_debug/
 #.idea/
 
 *.csv
-*.pbix
 
 # End of https://www.toptal.com/developers/gitignore/api/python
